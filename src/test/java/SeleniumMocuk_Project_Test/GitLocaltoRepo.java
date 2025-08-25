@@ -2,7 +2,7 @@ package SeleniumMocuk_Project_Test;
 
 public class GitLocaltoRepo {
 	public void demomethod(){
-		system.out.println("change code from remote repo to local");
+		System.out.println("change code from remote repo to local");
 	}
 
 	public static void main(String[] args) {
